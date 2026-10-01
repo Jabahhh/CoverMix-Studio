@@ -1,4 +1,4 @@
-[gemini-code-1790894414317.md](https://github.com/user-attachments/files/32937131/gemini-code-1790894414317.md)
+CoverMix Studio
 
 <img width="873" height="955" alt="1" src="https://github.com/user-attachments/assets/e5e2d9c6-8e33-42e0-8dc7-9f177a009c6a" />
 <img width="640" height="640" alt="2" src="https://github.com/user-attachments/assets/20984737-49e3-49db-b7ce-8f92428f6bc7" />
